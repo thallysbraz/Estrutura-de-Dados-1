@@ -1,0 +1,4 @@
+/home/guilherme/Área de trabalho/EDA1/Projeto04/src/main.c:6:21: fatal error: funcoes.h: Arquivo ou diretório não encontrado
+ #include "funcoes.h"
+                     ^
+compilation terminated.
